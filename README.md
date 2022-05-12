@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tweaked95
 - 👀 I’m interested in unique mechanics 
-- 🌱 I’m currently learning Shader and VFX graphs as well as Virtual Produciton
+- 🌱 I’m currently learning Shader and VFX graphs as well as Virtual Production in Unity
 - 📫 How to reach me : dabhadenachiket@gmail.com
 
 <!---
